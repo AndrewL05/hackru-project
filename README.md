@@ -6,5 +6,7 @@ What it does: <br>
 -Allows the user to add notes and reminders <br>
 -An optional facial recognition feature that, when activated, monitors the user's presence. If the user is away from the computer screen for an extended period, an alert email is automatically sent to both the user and their caretaker/family <br>
 
-Built with: <br>
--Python, Flask, HTML, CSS, and JavaScript 
+Technologies Used: <br>
+-Python and Flask for backend development <br>
+-Node.js for server management <br>
+-HTML, CSS, and JavaScript for frontend design and interactivity
